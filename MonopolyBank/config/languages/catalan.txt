@@ -1,0 +1,29 @@
+=====================;=====================
+PULSE 1 PARA SELECCIONAR IDIOMA;PULSEU 1 PER SELECCIONAR IDIOMA
+PULSE 2 PARA INICIAR NUEVA PARTIDA;PULSEU 2 PER INICIAR UNA NOVA PARTIDA
+PULSE 3 PARA REANUDAR UNA PARTIDA;PULSEU 3 PER REPRENDRE UNA PARTIDA
+PULSE 4 PARA SALIR DEL SISTEMA;PULSEU 4 PER SORTIR DEL SISTEMA
+Introduzca el número de jugadores que quiere crear (mínimo 2 y máximo 4):;Introduïu el nombre de jugadors que voleu crear (mínim 2 i màxim 4):
+Creación jugador 1;Creació jugador 1
+Creación jugador 2;Creació jugador 2
+Creación jugador 3;Creació jugador 3
+Creación jugador 4;Creació jugador 4
+Pulse 1 para el color rojo;PULSEU 1 PEL COLOR VERMELL
+Pulse 2 para el color verde;PULSEU 2 PEL COLOR VERD
+Pulse 3 para el color azul;PULSEU 3 PEL COLOR BLAU
+Pulse 4 para el color negro;PULSEU 4 PEL COLOR NEGRE
+Escoge un color :;Escolliu un color:
+Introduzca el nombre del jugador;Introduïu el nom del jugador
+Pulse 1 para nueva operación;PULSEU 1 PER NOVA OPERACIÓ
+Pulse 2 para consultar estado de la partida;PULSEU 2 PER CONSULTAR L'ESTAT DE LA PARTIDA
+Pulse 3 para guardar la partida ;PULSEU 3 PER GUARDAR LA PARTIDA
+Introduce el id de la carta;Introduïu l'id de la carta
+Introduce la primera letra (en minúscula) del color del jugador (r, v, a, n);Introduïu la primera lletra (en minúscula) del color del jugador (r, v, a, n)
+Jugadores disponibles:;Jugadors disponibles:
+La propiedad ha sido comprada por pedro correctamente.;La propietat ha estat comprada per Pedro correctament.
+Dinero actual en el deposito:;Diners actuals en el dipòsit:
+MENÚ PROPIETARIO;MENÚ PROPIETARI
+PULSE 1 PARA HIPOTECAR PROPIEDAD;PULSEU 1 PER HIPOTECAR PROPIETAT
+PULSE 2 PARA DESHIPOTECAR PROPIEDAD;PULSEU 2 PER DESHIPOTECAR PROPIETAT
+PULSE 3 PARA COMPRAR CASAS EN LA PROPIEDAD;PULSEU 3 PER COMPRAR CASES A LA PROPIETAT
+PULSE 4 PARA VENDER CASAS DE LA PROPIEDAD;PULSEU 4 PER VENDRE CASES DE LA PROPIETAT

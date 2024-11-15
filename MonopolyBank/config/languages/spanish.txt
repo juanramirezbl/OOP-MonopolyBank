@@ -1,0 +1,29 @@
+=====================;=====================
+PULSE 1 PARA SELECCIONAR IDIOMA;PULSE 1 PARA SELECCIONAR IDIOMA
+PULSE 2 PARA INICIAR NUEVA PARTIDA;PULSE 2 PARA INICIAR NUEVA PARTIDA
+PULSE 3 PARA REANUDAR UNA PARTIDA;PULSE 3 PARA REANUDAR UNA PARTIDA
+PULSE 4 PARA SALIR DEL SISTEMA;PULSE 4 PARA SALIR DEL SISTEMA
+Introduzca el número de jugadores que quiere crear (mínimo 2 y máximo 4):;Introduzca el número de jugadores que quiere crear (mínimo 2 y máximo 4):
+Creación jugador 1;Creación jugador 1
+Creación jugador 2;Creación jugador 2
+Creación jugador 3;Creación jugador 3
+Creación jugador 4;Creación jugador 4
+Pulse 1 para el color rojo;Pulse 1 para el color rojo
+Pulse 2 para el color verde;Pulse 2 para el color verde
+Pulse 3 para el color azul;Pulse 3 para el color azul
+Pulse 4 para el color negro;Pulse 4 para el color negro
+Escoge un color :;Escoge un color :
+Introduzca el nombre del jugador;Introduzca el nombre del jugador
+Pulse 1 para nueva operación;Pulse 1 para nueva operación
+Pulse 2 para consultar estado de la partida;Pulse 2 para consultar estado de la partida
+Pulse 3 para guardar la partida;Pulse 3 para guardar la partida
+Introduce el id de la carta;Introduce el id de la carta
+Introduce la primera letra (en minúscula) del color del jugador (r, v, a, n);Introduce la primera letra (en minúscula) del color del jugador (r, v, a, n)
+Jugadores disponibles:;Jugadores disponibles:
+La propiedad ha sido comprada por pedro correctamente.;La propiedad ha sido comprada por Pedro correctamente.
+Dinero actual en el deposito:;Dinero actual en el deposito:
+MENÚ PROPIETARIO;MENÚ PROPIETARIO
+PULSE 1 PARA HIPOTECAR PROPIEDAD;PULSE 1 PARA HIPOTECAR PROPIEDAD
+PULSE 2 PARA DESHIPOTECAR PROPIEDAD;PULSE 2 PARA DESHIPOTECAR PROPIEDAD
+PULSE 3 PARA COMPRAR CASAS EN LA PROPIEDAD;PULSE 3 PARA COMPRAR CASAS EN LA PROPIEDAD
+PULSE 4 PARA VENDER CASAS DE LA PROPIEDAD;PULSE 4 PARA VENDER CASAS DE LA PROPIEDAD

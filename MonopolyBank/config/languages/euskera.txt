@@ -1,0 +1,29 @@
+=====================;=====================
+PULSE 1 PARA SELECCIONAR IDIOMA;SAKATU 1 HIZKUNTZA HAUTATZEKO
+PULSE 2 PARA INICIAR NUEVA PARTIDA;SAKATU 2 PARTIDA BERRIA HASTEKO
+PULSE 3 PARA REANUDAR UNA PARTIDA;SAKATU 3 PARTIDA BERRESKURATZEKO
+PULSE 4 PARA SALIR DEL SISTEMA;SAKATU 4 SISTEMATIK IRTETEKO
+Introduzca el número de jugadores que quiere crear (mínimo 2 y máximo 4):;Sartu sortu nahi dituzun jokalari kopurua (gutxienez 2 eta gehienez 4):
+Creación jugador 1;Jokalariaren sorrera 1
+Creación jugador 2;Jokalariaren sorrera 2
+Creación jugador 3;Jokalariaren sorrera 3
+Creación jugador 4;Jokalariaren sorrera 4
+Pulse 1 para el color rojo;SAKATU 1 KOLORE GORRIAREKIN
+Pulse 2 para el color verde;SAKATU 2 KOLORE BERDEAREKIN
+Pulse 3 para el color azul;SAKATU 3 KOLORE URDINA
+Pulse 4 para el color negro;SAKATU 4 KOLORE BELTZA
+Escoge un color :;Aukeratu kolore bat:
+Introduzca el nombre del jugador;Sartu jokalariaren izena
+Pulse 1 para nueva operación;SAKATU 1 ERAGIKETA BERRIAREKIN
+Pulse 2 para consultar estado de la partida;SAKATU 2 PARTIDAREN EGOERA KONTULTATZEKO
+Pulse 3 para guardar la partida;SAKATU 3 PARTIDA GORDEKO
+Introduce el id de la carta;Sartu txartelaren IDa
+Introduce la primera letra (en minúscula) del color del jugador (r, v, a, n);Sartu jokalariaren kolorearen lehen letra (minuskulaz) (g, b, u, b)
+Jugadores disponibles:;Eskuragarri dauden jokalariak:
+La propiedad ha sido comprada por pedro correctamente.;Pedro-k jabetza behar bezala erosi du.
+Dinero actual en el deposito:;Gordailuan dagoen dirua:
+MENÚ PROPIETARIO;JABEAREN MENUA
+PULSE 1 PARA HIPOTECAR PROPIEDAD;SAKATU 1 JABETZA HIPOTEKATZEKO
+PULSE 2 PARA DESHIPOTECAR PROPIEDAD;SAKATU 2 JABETZA DESHIPOTEKATZEKO
+PULSE 3 PARA COMPRAR CASAS EN LA PROPIEDAD;SAKATU 3 JABETZAN ETXEAK EROSTEKO
+PULSE 4 PARA VENDER CASAS DE LA PROPIEDAD;SAKATU 4 JABETZAN ETXEAK SALTZEKO

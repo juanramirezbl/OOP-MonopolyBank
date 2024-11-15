@@ -1,0 +1,29 @@
+=====================;=====================
+PULSE 1 PARA SELECCIONAR IDIOMA;PRESS 1 TO SELECT LANGUAGE
+PULSE 2 PARA INICIAR NUEVA PARTIDA;PRESS 2 TO START NEW GAME
+PULSE 3 PARA REANUDAR UNA PARTIDA;PRESS 3 TO RESUME GAME
+PULSE 4 PARA SALIR DEL SISTEMA;PRESS 4 TO EXIT SYSTEM
+Introduzca el número de jugadores que quiere crear (mínimo 2 y máximo 4):;Enter the number of players you want to create (minimum 2 and maximum 4):
+Creación jugador 1;Player creation 1
+Creación jugador 2;Player creation 2
+Creación jugador 3;Player creation 3
+Creación jugador 4;Player creation 4
+Pulse 1 para el color rojo;Press 1 for red color
+Pulse 2 para el color verde;Press 2 for green color
+Pulse 3 para el color azul;Press 3 for blue color
+Pulse 4 para el color negro;Press 4 for black color
+Escoge un color :;Choose a color:
+Introduzca el nombre del jugador;Enter the player's name
+Pulse 1 para nueva operación;Press 1 for new operation
+Pulse 2 para consultar estado de la partida;Press 2 to check game status
+Pulse 3 para guardar la partida;Press 3 to save the game
+Introduce el id de la carta;Enter the card ID
+Introduce la primera letra (en minúscula) del color del jugador (r, v, a, n);Enter the first letter (in lowercase) of the player's color (r, v, a, n)
+Jugadores disponibles:;Available players:
+La propiedad ha sido comprada por pedro correctamente.;The property has been correctly purchased by Pedro.
+Dinero actual en el deposito:;Current money in the deposit:
+MENÚ PROPIETARIO;OWNER MENU
+PULSE 1 PARA HIPOTECAR PROPIEDAD;PRESS 1 TO MORTGAGE PROPERTY
+PULSE 2 PARA DESHIPOTECAR PROPIEDAD;PRESS 2 TO UNMORTGAGE PROPERTY
+PULSE 3 PARA COMPRAR CASAS EN LA PROPIEDAD;PRESS 3 TO BUY HOUSES ON THE PROPERTY
+PULSE 4 PARA VENDER CASAS DE LA PROPIEDAD;PRESS 4 TO SELL HOUSES ON THE PROPERTY
